@@ -78,14 +78,11 @@ Autonomous Systems • Embedded Hardware • Computer Vision • Robot Kinematic
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Statistics
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaghavSemwal&show_icons=true&theme=visual_studio_dark&hide_border=true" height="150" alt="Raghav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavSemwal&layout=compact&theme=visual_studio_dark&hide_border=true" height="150" alt="Top Languages" />
-</div>
+![Raghav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaghavSemwal&show_icons=true&theme=tokyonight&count_private=true)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavSemwal&layout=compact&theme=tokyonight)
 
 ### 🤝 Open To
 * 🏆 Robotics competitions
