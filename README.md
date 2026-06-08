@@ -3,7 +3,7 @@
 <h4 align="center">Fascinated by Robots that Think & Machines that Learn</h4>
 
 <p align="center">
-  <a href="https://linkedin.com/in/raghav-semwal" target="_blank">
+  <a href="https://www.linkedin.com/in/raghav-semwal-9718753ba" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Raghav%20Semwal-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:raghav9tha35@gmail.com">
@@ -97,5 +97,4 @@ Autonomous Systems • Embedded Hardware • Computer Vision • Robot Kinematic
 <p align="center">
   <i>⚡ "The best way to predict the future is to invent it."</i>
 </p>
-
 
