@@ -3,7 +3,7 @@
 <h4 align="center">Fascinated by Robots that Think & Machines that Learn</h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raghav-semwal-9718753ba" target="_blank">
+  <a href="https://linkedin.com/in/raghav-semwal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Raghav%20Semwal-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:raghav9tha35@gmail.com">
@@ -14,29 +14,27 @@
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
+I'm currently pursuing a B.Tech in **Robotics & Artificial Intelligence** at Thapar Institute of Engineering & Technology (TIET), Patiala (1st Year · 2025–2029).
 
-I'm currently pursuing a **B.Tech in Robotics & Artificial Intelligence** at **Thapar Institute of Engineering & Technology (TIET), Patiala** *(1st Year · 2025–2029)*.
+Every great engineer starts with a strong foundation — mine is built on curiosity, consistency, and leadership. I'm channeling that foundation into real-world engineering — diving deep into the world of Robotics, Machine Learning, and Automation — and building the skills that will define my career.
 
-Every great engineer starts with a strong foundation — mine is built on **curiosity, consistency, and leadership**. I'm channeling that foundation into real-world engineering — diving deep into the world of **Robotics, Machine Learning, and Automation** — and building the skills that will define my career.
-
-### What I'm focused on:
-- 🤖 Exploring how **AI and Robotics** can solve real-world problems
-- ⚙️ Building **intelligent and automated systems**
-- 📚 Continuously **learning new skills** across hardware and software
-- 🚀 Growing into an engineer who leads with both **technical skill and vision**
-
----
-
-## 🚀 Currently Working On
-
-- 📘 **C++ & OOP** — Classes, inheritance, polymorphism, STL
-- 🧮 **DSA in C++** — Arrays, linked lists, stacks, queues, recursion
-- 🤖 **Arduino** — Learning embedded hardware by building real projects
+**What I'm focused on:**
+* 🤖 Exploring how AI and Robotics can solve real-world problems
+* ⚙️ Building intelligent and automated systems
+* 📚 Continuously learning new skills across hardware and software
+* 🚀 Growing into an engineer who leads with both technical skill and vision
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🚀 Currently Working On
+* 📘 **C++ & OOP** — Classes, inheritance, polymorphism, STL
+* 🧮 **DSA in C++** — Arrays, linked lists, stacks, queues, recursion
+* 🤖 **Arduino** — Learning embedded hardware by building real projects
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <table>
   <tr>
@@ -75,29 +73,29 @@ Every great engineer starts with a strong foundation — mine is built on **curi
 
 ---
 
-## 🎯 Interests
-
-`Autonomous Systems` · `Embedded Hardware` · `Computer Vision` · `Robot Kinematics` · `Machine Learning` · `Automation`
+### 🎯 Interests
+Autonomous Systems • Embedded Hardware • Computer Vision • Robot Kinematics • Machine Learning • Automation
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="left">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=RaghavSemwal&show_icons=true&theme=visual_studio_dark&hide_border=true" height="150" alt="Raghav's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavSemwal&layout=compact&theme=visual_studio_dark&hide_border=true" height="150" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
-## 🤝 Open To
+### 🤝 Open To
+* 🏆 Robotics competitions
+* 🔬 Research opportunities
+* 🤝 Collaborations with people building cool things
 
-- 🏆 Robotics competitions
-- 🔬 Research opportunities
-- 🤝 Collaborations with people building cool things
-
----
+<br />
 
 <p align="center">
   <i>⚡ "The best way to predict the future is to invent it."</i>
 </p>
+
+
