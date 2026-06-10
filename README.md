@@ -80,7 +80,10 @@ Autonomous Systems • Embedded Hardware • Computer Vision • Robot Kinematic
 
 ### 📊 My GitHub Activity
 
-![Raghav's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RaghavSemwal&theme=tokyonight)
+![Raghav's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RaghavSemwal&theme=tokyonight&v=1)
+
+---
+
 ### 🤝 Open To
 * 🏆 Robotics competitions
 * 🔬 Research opportunities
@@ -91,4 +94,3 @@ Autonomous Systems • Embedded Hardware • Computer Vision • Robot Kinematic
 <p align="center">
   <i>⚡ "The best way to predict the future is to invent it."</i>
 </p>
-
