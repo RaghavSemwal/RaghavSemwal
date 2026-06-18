@@ -84,7 +84,7 @@ Autonomous Systems • Embedded Hardware • Computer Vision • Robot Kinematic
 
 ---
 
-### 🤝 Open To
+###  🤝 Open To
 * 🏆 Robotics competitions
 * 🔬 Research opportunities
 * 🤝 Collaborations with people building cool things
@@ -93,4 +93,4 @@ Autonomous Systems • Embedded Hardware • Computer Vision • Robot Kinematic
 
 <p align="center">
   <i>⚡ "The best way to predict the future is to invent it."</i>
-</p>
+    </p>
