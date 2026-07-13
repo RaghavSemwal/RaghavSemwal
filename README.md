@@ -1,6 +1,9 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5fa&height=200&section=header&text=Raghav%20Semwal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%26%20AI%20Undergraduate%20%40%20Thapar%20Institute&descAlignY=58&descSize=16" width="100%"/>
+
 <h1 align="center">Hi 👋, I'm Raghav Semwal</h1>
 <h3 align="center">Robotics & AI Undergraduate @ Thapar Institute of Engineering & Technology</h3>
 <h4 align="center">Fascinated by Robots that Think & Machines that Learn</h4>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/raghav-semwal-9718753ba" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Raghav%20Semwal-blue?style=flat&logo=linkedin" alt="LinkedIn" />
@@ -10,22 +13,33 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=RaghavSemwal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 ---
+
 ### 🧠 About Me
+
 I'm currently pursuing a B.Tech in **Robotics & Artificial Intelligence** at Thapar Institute of Engineering & Technology (TIET), Patiala (1st Year · 2025–2029).
+
 Every great engineer starts with a strong foundation — mine is built on curiosity, consistency, and leadership. I'm channeling that foundation into real-world engineering — diving deep into the world of Robotics, Machine Learning, and Automation — and building the skills that will define my career.
+
 **What I'm focused on:**
 * 🤖 Exploring how AI and Robotics can solve real-world problems
 * ⚙️ Building intelligent and automated systems
 * 📚 Continuously learning new skills across hardware and software
 * 🚀 Growing into an engineer who leads with both technical skill and vision
+
 ---
+
 ### 🚀 Currently Working On
+
 * 📘 **C++ & OOP** — Classes, inheritance, polymorphism, STL
 * 🧮 **DSA in C++** — Arrays, linked lists, stacks, queues, recursion
 * 🤖 **Arduino** — Learning embedded hardware by building real projects
+
 ---
+
 ### 🛠️ Tech Stack & Tools
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -58,20 +72,31 @@ Every great engineer starts with a strong foundation — mine is built on curios
     </td>
   </tr>
 </table>
+
 **Design & CAD:** SolidWorks
+
 ---
+
 ### 🎯 Interests
+
 Autonomous Systems • Embedded Hardware • Computer Vision • Robot Kinematics • Machine Learning • Automation
+
 ---
+
 ### 📊 My GitHub Activity
+
 ![Raghav's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RaghavSemwal&theme=tokyonight&v=1)
+
 ---
-###  🤝 Open To
+
+### 🤝 Open To
+
 * 🏆 Robotics competitions
 * 🔬 Research opportunities
 * 🤝 Collaborations with people building cool things
+
 <br />
+
 <p align="center">
   <i>⚡ "The best way to predict the future is to invent it."</i>
-    </p>
-  make this more attractive in a creative manner
+</p>
