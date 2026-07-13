@@ -116,7 +116,7 @@ Real Hardware Projects
   </tr>
 </table>
 
-**Design & CAD:** SolidWorks
+**Design & CAD:** SolidWorks,AutoCAD,TinkerCAD
 
 ---
 
