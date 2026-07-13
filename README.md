@@ -1,24 +1,24 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5fa&height=200&section=header&text=Raghav%20Semwal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%26%20AI%20Undergraduate%20%40%20Thapar%20Institute&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0e75b6,100:6dd5fa&amp;height=200&amp;section=header&amp;text=Raghav%20Semwal&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Robotics%20%26%20AI%20Undergraduate%20%40%20Thapar%20Institute&amp;descAlignY=58&amp;descSize=16" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Raghav Semwal</h1>
-<h3 align="center">Robotics & AI Undergraduate @ Thapar Institute of Engineering & Technology</h3>
-<h4 align="center">Fascinated by Robots that Think & Machines that Learn</h4>
+<h3 align="center">Robotics &amp; AI Undergraduate @ Thapar Institute of Engineering &amp; Technology</h3>
+<h4 align="center">Fascinated by Robots that Think &amp; Machines that Learn</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raghav-semwal-9718753ba" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Raghav%20Semwal-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Raghav%20Semwal-blue?style=flat&amp;logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:raghav9tha35@gmail.com">
-    <img src="https://img.shields.io/badge/Email-raghav9tha35%40gmail.com-red?style=flat&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-raghav9tha35%40gmail.com-red?style=flat&amp;logo=gmail" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=RaghavSemwal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RaghavSemwal&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I'm currently pursuing a B.Tech in **Robotics & Artificial Intelligence** at Thapar Institute of Engineering & Technology (TIET), Patiala (1st Year · 2025–2029).
+I'm currently pursuing a B.Tech in **Robotics &amp; Artificial Intelligence** at Thapar Institute of Engineering &amp; Technology (TIET), Patiala (1st Year · 2025–2029).
 
 Every great engineer starts with a strong foundation — mine is built on curiosity, consistency, and leadership. I'm channeling that foundation into real-world engineering — diving deep into the world of Robotics, Machine Learning, and Automation — and building the skills that will define my career.
 
@@ -32,13 +32,13 @@ Every great engineer starts with a strong foundation — mine is built on curios
 
 ### 🚀 Currently Working On
 
-* 📘 **C++ & OOP** — Classes, inheritance, polymorphism, STL
+* 📘 **C++ &amp; OOP** — Classes, inheritance, polymorphism, STL
 * 🧮 **DSA in C++** — Arrays, linked lists, stacks, queues, recursion
 * 🤖 **Arduino** — Learning embedded hardware by building real projects
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack &amp; Tools
 
 <table>
   <tr>
@@ -73,7 +73,7 @@ Every great engineer starts with a strong foundation — mine is built on curios
   </tr>
 </table>
 
-**Design & CAD:** SolidWorks
+**Design &amp; CAD:** SolidWorks
 
 ---
 
@@ -85,7 +85,7 @@ Autonomous Systems • Embedded Hardware • Computer Vision • Robot Kinematic
 
 ### 📊 My GitHub Activity
 
-![Raghav's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RaghavSemwal&theme=tokyonight&v=1)
+![Raghav's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RaghavSemwal&amp;theme=tokyonight&amp;v=1)
 
 ---
 
