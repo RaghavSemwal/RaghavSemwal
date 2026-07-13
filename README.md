@@ -32,7 +32,7 @@ class RaghavSemwal:
         self.name        = "Raghav Semwal"
         self.degree      = "B.Tech — Robotics & Artificial Intelligence"
         self.university  = "Thapar Institute of Engineering & Technology, Patiala"
-        self.year        = "1st Year (2025-2029)"
+        self.year        = "2st Year (2025-2029)"
         self.passions    = ["Autonomous Systems", "Embedded Hardware",
                             "Computer Vision", "Machine Learning"]
         self.motto       = "The best way to predict the future is to invent it."
