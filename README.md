@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:4facfe,100:6dd5fa&height=220&section=header&text=Raghav%20Semwal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%26%20AI%20Engineer%20in%20the%20Making&descAlignY=58&descSize=18&descColor=d0eaff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5fa&height=200&section=header&text=Raghav%20Semwal&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Raghav Semwal</h1>
-<h3 align="center">Robotics & AI Undergraduate · Thapar Institute of Engineering & Technology · Batch of 2029</h3>
+<h3 align="center">Robotics &amp; AI Undergraduate · Thapar Institute of Engineering &amp; Technology · Batch of 2029</h3>
 <h4 align="center"><i>Fascinated by robots that think and machines that learn</i></h4>
 
 <p align="center">
@@ -27,7 +27,7 @@ class RaghavSemwal:
         self.name        = "Raghav Semwal"
         self.degree      = "B.Tech — Robotics & Artificial Intelligence"
         self.university  = "Thapar Institute of Engineering & Technology, Patiala"
-        self.year        = "1st Year (2025–2029)"
+        self.year        = "1st Year (2025-2029)"
         self.passions    = ["Autonomous Systems", "Embedded Hardware",
                             "Computer Vision", "Machine Learning"]
         self.motto       = "The best way to predict the future is to invent it."
@@ -46,7 +46,7 @@ class RaghavSemwal:
 <tr>
 <td width="33%" align="center">
 
-**📘 C++ & OOP**
+**📘 C++ and OOP**
 
 Classes · Inheritance
 Polymorphism · STL
@@ -64,7 +64,7 @@ Recursion · Trees
 </td>
 <td width="33%" align="center">
 
-**⚙️ Arduino & Embedded**
+**⚙️ Arduino and Embedded**
 
 Sensors · Actuators
 Serial Communication
@@ -76,7 +76,7 @@ Real Hardware Projects
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack and Tools
 
 <p align="center">
 
@@ -86,7 +86,7 @@ Real Hardware Projects
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<br/><br/><b>Hardware & Design</b><br/>
+<br/><br/><b>Hardware and Design</b><br/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/SolidWorks-CC0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
 
@@ -105,11 +105,11 @@ Real Hardware Projects
 
 | 🤖 Autonomous Systems | 👁️ Computer Vision | 🦾 Robot Kinematics |
 |:---:|:---:|:---:|
-| Self-navigating robots, path planning & SLAM | Visual perception, object detection & tracking | Forward/inverse kinematics, manipulator design |
+| Self-navigating robots, path planning and SLAM | Visual perception, object detection and tracking | Forward/inverse kinematics, manipulator design |
 
 | ⚡ Embedded Hardware | 🧠 Machine Learning | ⚙️ Automation |
 |:---:|:---:|:---:|
-| Microcontrollers, sensors & real-time systems | Neural networks, model training & deployment | Smart systems, IoT & process optimization |
+| Microcontrollers, sensors and real-time systems | Neural networks, model training and deployment | Smart systems, IoT and process optimization |
 
 </div>
 
@@ -129,18 +129,10 @@ Real Hardware Projects
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=RaghavSemwal&theme=tokyonight&no-frame=true&column=6&margin-w=10" alt="Trophies"/>
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaghavSemwal&theme=tokyo-night&hide_border=true&area=true&radius=10" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaghavSemwal&theme=tokyo-night&hide_border=true&area=true&radius=10" width="95%" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -151,14 +143,13 @@ Real Hardware Projects
 
 🏆 <b>Robotics Competitions</b> &nbsp;|&nbsp; 🔬 <b>Research Opportunities</b> &nbsp;|&nbsp; 🤝 <b>Open Source Projects</b> &nbsp;|&nbsp; 💡 <b>Innovative Ideas</b>
 
+<br/><br/>
 <i>If you're building something cool at the intersection of hardware and intelligence — let's talk.</i>
 
 </p>
 
 ---
 
-<p align="center">
-  <i>⚡ "The best way to predict the future is to invent it." — Alan Kay</i>
-</p>
+<p align="center"><i>"The best way to predict the future is to invent it." — Alan Kay</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5fa,50:4facfe,100:0e75b6&height=160&section=footer&text=Let%27s%20Build%20the%20Future%20Together&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5fa,100:0e75b6&height=160&section=footer&text=Lets%20Build%20the%20Future&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%"/>
