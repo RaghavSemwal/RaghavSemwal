@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0e75b6,100:6dd5fa&amp;height=200&amp;section=header&amp;text=Raghav%20Semwal&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Raghav Semwal</h1>
 <h3 align="center">Robotics &amp; AI Undergraduate @ Thapar Institute of Engineering &amp; Technology</h3>
