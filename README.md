@@ -1,7 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5fa&height=200&section=header&text=Raghav%20Semwal&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm Raghav Semwal</h1>
-<h3 align="center">Robotics &amp; AI Undergraduate · Thapar Institute of Engineering &amp; Technology · Batch of 2029</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Raghav+Semwal;Robotics+%26+AI+Undergraduate;Building+machines+that+think" alt="Typing SVG" />
+  </a>
+</p>
+
+<h3 align="center">Thapar Institute of Engineering &amp; Technology · Batch of 2029</h3>
 <h4 align="center"><i>Fascinated by robots that think and machines that learn</i></h4>
 
 <p align="center">
@@ -79,22 +84,15 @@ Real Hardware Projects
 ## 🛠️ Tech Stack and Tools
 
 <p align="center">
-
-<b>Languages</b><br/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00427A?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<br/><br/><b>Hardware and Design</b><br/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/SolidWorks-CC0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
-
-<br/><br/><b>Dev Tools</b><br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
 </p>
 
 ---
@@ -119,12 +117,8 @@ Real Hardware Projects
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=RaghavSemwal&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="Streak Stats"/>
-  &nbsp;
   <img src="https://github-stats-extended.vercel.app/api?username=RaghavSemwal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="165" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RaghavSemwal&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="130" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RaghavSemwal&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="Top Languages"/>
 </p>
 
 ---
@@ -139,17 +133,41 @@ Real Hardware Projects
 
 ## 🤝 Open To Collaborate On
 
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+
+### 🏆
+**Robotics Competitions**
+
+</td>
+<td width="25%" align="center">
+
+### 🔬
+**Research Opportunities**
+
+</td>
+<td width="25%" align="center">
+
+### 🤝
+**Open Source Projects**
+
+</td>
+<td width="25%" align="center">
+
+### 💡
+**Innovative Ideas**
+
+</td>
+</tr>
+</table>
+
 <p align="center">
-
-🏆 <b>Robotics Competitions</b> &nbsp;|&nbsp; 🔬 <b>Research Opportunities</b> &nbsp;|&nbsp; 🤝 <b>Open Source Projects</b> &nbsp;|&nbsp; 💡 <b>Innovative Ideas</b>
-
-<br/><br/>
-<i>If you're building something cool at the intersection of hardware and intelligence — let's talk.</i>
-
+<img src="https://img.shields.io/badge/If%20you're%20building%20something%20cool%20at%20the%20intersection%20of%20hardware%20and%20intelligence%20—%20let's%20talk-0e75b6?style=for-the-badge" alt="Let's talk"/>
 </p>
 
 ---
 
 <p align="center"><i>"The best way to predict the future is to invent it." — Alan Kay</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5fa,100:0e75b6&height=160&section=footer&text=Lets%20Build%20the%20Future&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" width="100%"/>
