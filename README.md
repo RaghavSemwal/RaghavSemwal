@@ -14,7 +14,7 @@
 <a href="mailto:raghav9tha35@gmail.com">
   <img src="https://img.shields.io/badge/Email-raghav9tha35%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=RaghavSemwal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -85,10 +85,10 @@ current_mission: "Diving into Robotics, ML & Automation to solve real-world prob
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RaghavSemwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavSemwal&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaghavSemwal&theme=tokyonight&hide_border=true" alt="Raghav's Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 </div>
 
@@ -98,9 +98,7 @@ current_mission: "Diving into Robotics, ML & Automation to solve real-world prob
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RaghavSemwal/RaghavSemwal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-<sub>✨ Add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to your repo to auto-generate this animation</sub>
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
